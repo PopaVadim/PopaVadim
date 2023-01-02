@@ -1,4 +1,4 @@
-<h1>Hello, I'm Vadim! <br/><a href="linkedin.com/in/vadim-popa"</a> CompTIA Secure Infrastructure Specialist</a> </h1>
+<h1>Hello, I'm Vadim! <br/><a href="linkedin.com/in/vadim-popa" </a> CompTIA Secure Infrastructure Specialist</a> </h1>
 
 <h2>👨🏾‍💻 Projects:</h2>
  
