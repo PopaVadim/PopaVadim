@@ -21,8 +21,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+<br/>
 
-[<img align="left" alt="Vadim Popa| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/vadim-popa/
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vadim-popa/)
