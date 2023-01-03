@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQH75u4KtUQ6ZQ/profile-displaybackgroundimage-shrink_350_1400/0/1642203388880?e=1678320000&v=beta&t=7KFusMQljpBTrXwHq5EwQIj_VKMx3ykQVtbmUkPDPyk"/>
 
 <h1>Hello, I'm Vadim! <br/><a href="https://www.linkedin.com/in/vadim-popa">CompTIA Secure Infrastructure Specialist</a></h1>
 
