@@ -2,8 +2,9 @@
 <h1>Hello, I'm Vadim! <br/><a href="https://www.linkedin.com/in/vadim-popa">CompTIA Secure Infrastructure Specialist</a></h1>
 
 
-<h2>👨🏾‍💻 Projects:</h2>
- 
+<h2>💻 Projects:</h2>
+
+- [Kali Linux Lab in AWS](https://github.com/PopaVadim/Kali-Linux-Lab-in-AWS)
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/PopaVadim/Active-Directory-Home-Lab)
 - [Nessus Essentials Vulnerability Management](https://github.com/PopaVadim/Nessus-Vulnerability-Management-Lab/blob/main/README.md) 
 
@@ -21,7 +22,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌎 Connect with me:</h2>
 
 <br/>
 
